@@ -1,0 +1,211 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+  background: #373737;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: rgba(0, 0, 0, 0.37);
+}
+
+#logo {
+  width: 150px;
+  float: right;
+  margin: 20px 100px;
+}
+
+.box {
+  float: right;
+  direction: rtl;
+}
+
+input {
+  width: 330px;
+  background: #262626;
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+select {
+  width: 330px;
+  background: #262626;
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  color: #e67e22;
+}
+
+input[type="submit"] {
+  font-size: 24px;
+  font-weight: bold;
+  color: #e67e22;
+  background-color: rgba(0, 0, 0, 0.18);
+  border: 3px solid #e67e22;
+  border-radius: 10px;
+  padding: 5px 30px;
+  margin: 10px 0;
+}
+
+input[type="submit"]:hover {
+  color: #fff;
+  background-color: #e67e22;
+}
+
+.box {
+  float: right;
+  width: 60%;
+  margin: 5% 20%;
+  border: 3px solide;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
+
+.left {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+.img {
+  float: left;
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 10px;
+}
+
+.errors {
+	background-color: red;
+	width: 90%;
+	direction: ltr;
+	margin-left: 10%;
+	padding-left: 5%;
+}
+
+/*h1 {
+	padding-top: 20px;
+	text-align: center;
+	color: red;
+	font-size: 30px;
+	margin-bottom: 0%;
+	height: 6.6%;
+}
+
+label {
+	color: white;
+	margin: 0 20% 0 0;
+	white-space: nowrap;
+}
+
+#div2 {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+ form {
+	 width: 50%;
+	 background-color: rgba(0, 0, 0, 0.8);
+	 float: right;
+	 direction: rtl;
+	 height: 90%;
+	 margin-top: 0%;
+}
+
+select {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 17%;
+}
+
+input[type="text"] {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.5);
+    width: 30%;
+    margin: 0 20% 3.8% 0;
+}
+
+input[type="email"] {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.5);
+    width: 30%;
+    margin: 0 20% 3.8% 0;
+	white-space: nowrap;
+}
+
+input[type="password"] {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.5);
+    width: 30%;
+    margin: 0 20% 3.8% 0;
+	white-space: nowrap;
+}
+
+input[type="date"] {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.5);
+    width: 30%;
+    margin: 0 20% 3.8% 0;
+	white-space: nowrap;
+}
+
+input[type="button"] {
+    width: 26%;
+    height: 30px;
+    background-color: orchid;
+    border: 1px solid rgba(100, 100, 80, 0.85);
+    padding: 4px;
+	margin-right: 12%;
+    font-size: x-large;
+    border-radius: 6px;
+    cursor: pointer;
+	margin-right: 20%;
+}
+
+input[type="button"]:hover {
+    background-color: rgba(189, 200, 13, 0.8);
+    color: honeydew;
+}
+
+#img {
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+
+.img {
+	width: 100%;
+	float: left;
+	height: 100%;
+}
+
+.small_logo {
+    height: 10%;
+    width: 10%;
+    background-size: cover;
+	float: right;
+}
+
+.small {
+	background-color: rgba(0, 0, 0, 0.8);
+}*/
